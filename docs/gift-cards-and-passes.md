@@ -23,7 +23,7 @@ different from gift cards in that they allow for purchases of tickets with a cer
 
 Both gift cards and passes are paid out immediately to the Stripe account. There is no "pay me later" option for them.
 
-## Where are the Gift Cards I created listed on the site?
+## Where are the Gift Cards and Passes I created listed on JumpComedy.com?
 
 The gift cards are listed under the "Gift Cards" menu option. Any gift card that anyone has created is listed there. They will eventually be
 shown on other pages as well.
