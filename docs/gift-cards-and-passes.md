@@ -12,7 +12,7 @@ different than gift cards in that they allow for purchases of tickets with a cer
 - Customer using the gift card to buy tickets does not pay any service fee if gift card covers entire total; if gift card does not cover entire total, service fee is applied.
 - Money from gift card purchases is immediately deposited into your Stripe account
 
-## How Passed Work
+## How Passes Work
 
 - You can create a pass by setting a price for the pass and a start/end date for when that pass is applicable.
 - When customer purchases a pass they will get an email with a pass code which they can apply when purchasing tickets.
@@ -21,4 +21,7 @@ different than gift cards in that they allow for purchases of tickets with a cer
 - One small caveat/restriction: When creating passes, you must keep the price of the pass higher than any of the tickets that the pass will be used with. For example, don't create a pass for $20 which would be used on tickets which are on sale for $50 (that would be kind of odd anyway)
 - Money from pass purchases is immediately deposited into your Stripe account
 
-*Important Note:* Gift Cards and Passes are not shown on the home page right now. If you want to use them you'll have to create them in the backend, copy the Gift Card/Pass URL and promote it through other means (e.g., email campaigns).  We are still deciding exactly where to show gift cards on the site as we don't want to confuse people by mixing up events and gift cards/passes. If you have ideas on this, let us know.
+## Where are the Gift Cards I created listed on the site?
+
+The gift cards are listed under the "Gift Cards" menu option. Any gift card that anyone has created is listed there. They will eventually be
+shown on other pages as well.
