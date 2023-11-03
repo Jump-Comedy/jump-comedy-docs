@@ -3,8 +3,8 @@
 Gift cards are a form of payment. Customers can purchase gift cards and then use it to purchase tickets. Passes are 
 different from gift cards in that they allow for purchases of tickets with a certain time frame. Gift card have no time frame.
 
-## How Gift Card Work
-- You can create multiple denominations of gift cards, $50, $100 etc.
+## How Gift Cards Work
+- You can create multiple denominations of gift cards, $50, $100 etc. under the "Gift Cards" menu option.
 - When customer purchases a gift card they will get an email with a gift card code which they can apply when purchasing tickets.
 - Gift cards never expire, and remaining balances can be used on subsequent purchases.
 - Gift cards apply to all events under your account. You can optionally restrict the application of a gift card to a category of products
@@ -13,7 +13,7 @@ different from gift cards in that they allow for purchases of tickets with a cer
 
 ## How Passes Work
 
-- You can create a pass by setting a price for the pass and a start/end date for when that pass is applicable.
+- You can create a pass from the same screen you create a Gift Card. You must set a price for the pass and a start/end date for when that pass is applicable.
 - When customer purchases a pass they will get an email with a pass code which they can apply when purchasing tickets.
 - The pass allows you to buy any tickets under your account during that time period for free. You can optionally restrict the application of a pass to a category of products.
 - Service fee is applied only when purchasing the pass. There is no service fee applied during purchase of tickets with the pass (since the total will always be 0 as it's a pass).
