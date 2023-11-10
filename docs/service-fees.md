@@ -12,9 +12,9 @@ We charge the following service fees per ticket sold:
 - Tickets between $50.01 and $75: $3.00
 - Tickets greater than $75: 5%
 
-There is no other credit card processing fee or other fee. Everything is included in this amount. 
+There is no other transaction fees (e.g., credit card processing, seating, venue etc). Everything is included in this amount. 
 
-## Payout Service Fees
+## (Optional) Payout Service Fees
 
 We do not charge any service fees if you select the option of immediately paying out every order.
 
