@@ -1,6 +1,6 @@
 # Fees
 
-Please read this document carefully and if you have questions, please email info@mycomedytickets.com:
+Please email info@mycomedytickets.com if you have any questions about the below.
 
 ## Ticket Service Fees
 
