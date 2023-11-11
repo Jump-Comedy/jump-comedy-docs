@@ -6,7 +6,7 @@ Please email info@mycomedytickets.com if you have any questions about the below.
 
 We charge the following service fees per ticket sold:
 
-- Tickets less than $15: $1.00
+- Tickets between $.01 than $15: $1.00
 - Tickets between $15.01 and $40: $2.00
 - Tickets between $40.01 and $50: $2.50
 - Tickets between $50.01 and $75: $3.00
@@ -18,7 +18,7 @@ There is no other transaction fees (e.g., credit card processing, seating, venue
 
 We do not charge any service fees if you select the option of immediately paying out every order.
 
-However, if you select "one-time payment at the end" for a show, Stripe charges us a .025% fee, which we will
+However, fow shows after Dec 1, 2023, if you select "one-time payment at the end" for a show, Stripe charges us a .025% fee, which we will
 charge back to you. We make no profit off this. This is not a significant fee, some examples:
 
 - $500 payout incurs $1.25
