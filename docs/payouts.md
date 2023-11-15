@@ -8,9 +8,9 @@ Every order is immediately paid to your Stripe account.
 
 ## Pay once at the end
 
-Jump will automatically pay out the order 3 days after the event ends. You will get an email notification when this happens.
+Jump will automatically pay out all orders 3 days after the event ends. You will get an email notification when this happens.
 
-As an example, if you have an event on Saturday night, you'll get paid by Wednesday.
+As an example, if you have an event on Saturday night you'll get paid by Wednesday.
 
 ## Manual payouts
 
