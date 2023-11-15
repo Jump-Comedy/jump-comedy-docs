@@ -1,2 +1,5 @@
 site_name: Jump Comedy Docs
 site_url: https://docs.jumpcomedy.com
+
+theme:
+  name: readthedocs
