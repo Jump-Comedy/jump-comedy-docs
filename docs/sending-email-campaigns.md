@@ -5,13 +5,13 @@ the "Campaigns" menu option.
 
 ## Filtering Target Audiences
 
-There are three ways you can target audiences.
+There are four ways you can target audiences.
 
-### Send To Everyone
+### 1. Send To Everyone
 
 You can send the email blast to everyone on your mailing list. No exceptions. This email goes out to everybody.
 
-### Filter by City
+### 2. Filter by City
 
 You can filter subscribers based on city by checking off all the cities you would like the email to be sent to.
 
@@ -21,7 +21,7 @@ Subscribers who are on the list through other means (e.g, manual upload where th
 their city field set to blank. To target these people, you can check off "Cities with no value" and the email will go
 to them as well. If you don't check it, they will not receive an email.
 
-### Filter by Comic
+### 3. Filter by Comic
 
 If you specify comics on your shows on Jump, you have the ability to target subscribers who purchased tickets
 to specific comics' shows. Simply check off the comic's name and only those customers will receive the email.
@@ -34,7 +34,7 @@ It is strongly recommended that you add comics to shows to take advantage of thi
 
 *Note*: If you specify a Comic and City filter, the email will go to subscribers matching BOTH criteria (not just one).
 
-### Filter by Index
+### 4. Filter by Index
 
 Sometimes you want to send an email to only part of your list, say 1/3rd. You can do this by specifying the subscriber indexes.
 
