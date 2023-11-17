@@ -30,6 +30,8 @@ For customers who purchased tickets to shows where no comic was assigned to the 
 and they will receive an email as well. If you don't check it, only people who went to the checked off comic's shows will
 receive an email.
 
+It is strongly recommended that you add comics to shows to take advantage of this powerful feature.
+
 *Note*: If you specify a Comic and City filter, the email will go to subscribers matching BOTH criteria (not just one).
 
 ### Filter by Index
