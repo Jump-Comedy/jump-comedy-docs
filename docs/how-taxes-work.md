@@ -4,7 +4,7 @@ By default, all events charge taxes based on the location of the venue where the
 
 There are two main tax settings which you can customize. 
 
-## 1. Settings to Control Taxes
+## 1. Control at Event Level
 
 When creating or editing an event, you can go under "Advanced Options" and choose whether to collect
 taxes for this particular event. Checking it on will collect taxes. Checking it off will not.
