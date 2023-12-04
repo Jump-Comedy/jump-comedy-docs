@@ -5,6 +5,7 @@ The search feature is available on the home page of the site.
 You can enter any of the following to find shows:
 
 - Show title
+- Show description
 - Venue name
 - City and province code
 - Comics performing at the show
