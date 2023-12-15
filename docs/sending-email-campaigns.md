@@ -5,7 +5,7 @@ the "Campaigns" menu option.
 
 ## Filtering Target Audiences
 
-There are four ways you can target audiences.
+There are five ways you can target audiences.
 
 ### 1. Send To Everyone
 
@@ -32,7 +32,11 @@ receive an email.
 
 It is strongly recommended that you add comics to shows to take advantage of this powerful feature.
 
-*Note*: If you specify a Comic and City filter, the email will go to subscribers matching BOTH criteria (not just one).
+### 4. Filter by Venue
+
+You can target subscribers who bought tickets to a show at particular venues. 
+
+*Note*: If you specify a combination of Comic/City/Venue filter, the email will go to subscribers matching ALL criteria (not just one).
 
 ### 4. Filter by Index
 
