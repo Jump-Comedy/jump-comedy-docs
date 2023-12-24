@@ -19,8 +19,8 @@ There is no other transaction fees (e.g., credit card processing, seating, venue
 
 We do not charge any service fees if you select the option of immediately paying out every order.
 
-However, for shows after Dec 1, 2023, if you select "one-time payment at the end" for a show, Stripe charges 
-us a .025% fee, which we will charge back to you. We make no profit off this. This is not a significant fee, some examples:
+However, if you select "one-time payment at the end" for a show, Stripe charges us a .25% fee, which we 
+will charge back to you. We make no profit off this. This is not a significant fee, some examples:
 
 - $500 payout incurs $1.25
 - $1,000 payout incurs $2.50
