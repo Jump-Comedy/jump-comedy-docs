@@ -14,3 +14,9 @@ The dashboard is also accessible from the main menu.
 
 Clicking on the star next to an event under Manage Events will favorite the event. Clicking the star of an already
 favorited event will remove it as a favorite.  You can also unfavorite an event right from the dashboard.
+
+
+## Note on Multi-User Accounts
+
+The favorite setting is at a user level, not at an account level. So if you favorite something and have another
+user in your account, it will not appear in their favorites.
