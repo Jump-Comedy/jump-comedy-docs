@@ -48,3 +48,14 @@ Tax on ticket price: $0
 Tax on service fee: $0.10
 Total customer pays: $20
 Total paid out to organizer: $17.90
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
+
+| First Header | Second Header|
+|--------------| -------------|
+ | Content Cell | Content Cell|
+ | Content Cell | Content Cell|
