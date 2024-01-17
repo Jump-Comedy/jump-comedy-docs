@@ -19,4 +19,5 @@ To swap tickets between two shows, the following must be true:
 - There should be no assigned seating for either show
 - The tickets must not be free (i.e., created using Comp Tickets)
 - There must be inventory available in the show being swapped to
+- Both events should be in the future
 
