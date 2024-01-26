@@ -13,22 +13,17 @@ You can send the email blast to everyone on your mailing list. No exceptions. Th
 
 ### 2. Filter by City
 
-You can filter subscribers based on city by checking off all the cities you would like the email to be sent to.
+You can filter subscribers based on city by selecting all the cities you would like the email to be sent to.
 
 The subscriber's city is determined automatically based on their location when they place an order on Jump.
 
 Subscribers who are on the list through other means (e.g, manual upload where the file has no city field) will have
-their city field set to blank. To target these people, you can check off "Cities with no value" and the email will go
-to them as well. If you don't check it, they will not receive an email.
+their city field set to blank. The checkbox next to cities targets these people as well.
 
 ### 3. Filter by Comic
 
 If you specify comics on your shows on Jump, you have the ability to target subscribers who purchased tickets
 to specific comics' shows. Simply check off the comic's name and only those customers will receive the email.
-
-For customers who purchased tickets to shows where no comic was assigned to the show in Jump, you can select "Empty Comics field"
-and they will receive an email as well. If you don't check it, only people who went to the checked off comic's shows will
-receive an email.
 
 It is strongly recommended that you add comics to shows to take advantage of this powerful feature.
 
@@ -46,3 +41,16 @@ For example, if you hav a subscriber count of 100, you can enter "1" as the star
 the first 50 subscribers will receive the email. Or you can use any other number between 1 and 100 in this example.
 
 
+## Excluding Subscribers
+
+You can exclude certain subscribers from receiving emails. There are two ways you can do this:
+
+### 1. Exclude people who purchased tickets to specific shows
+
+You can specify shows so that people who purchased tickets to those shows will be excluded from the campaign. This is
+helpful if you are giving away free tickets but don't want to send the campaign to someone who already purchased tickets.
+
+### 2. Exclude people who opened certain campaigns
+
+You can specify campaigns so that people who opened those emails are excluded from the current campaign. This is 
+helpful when you want to target people who haven't yet opened your initial email.
