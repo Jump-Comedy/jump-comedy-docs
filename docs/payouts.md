@@ -4,7 +4,8 @@ There are three ways to collect the money from orders. You can pick these when c
 
 ## Pay out every order
 
-Every order is immediately paid to your Stripe account. 
+Every order is immediately paid to your Stripe account. For orders processed via PayPal, immediate payment isn't currently possible
+so those orders will be paid out 2-3 days after the show.
 
 ## Pay once at the end
 
