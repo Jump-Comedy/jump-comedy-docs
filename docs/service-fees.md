@@ -1,6 +1,6 @@
 # Fees
 
-Please email info@mycomedytickets.com if you have any questions about the below.
+Please email info@jumpcomedy.com if you have any questions about the below.
 
 ## Ticket Service Fees
 
@@ -15,17 +15,6 @@ We charge the following service fees per ticket sold:
 
 There is no other transaction fees (e.g., credit card processing, seating, venue etc). Everything is included in this amount. 
 
-## (Optional) Payout Service Fees
+## Other Fees
 
-We do not charge any service fees if you select the option of immediately paying out every order.
-
-However, if you select "one-time payment at the end" for a show, Stripe charges us a .25% fee, which we 
-will charge back to you. We make no profit off this. This is not a significant fee, some examples:
-
-- $500 payout incurs $1.25
-- $1,000 payout incurs $2.50
-- $5,000 payout incurs $12.50
-- $50,000 payout incurs $125
-
-Of course, you can completely avoid this by just getting paid immediately upon order.
-
+There are no other fees.
